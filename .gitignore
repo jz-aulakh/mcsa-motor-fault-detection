@@ -1,0 +1,23 @@
+# Dataset (download separately, see README)
+Motorfaultdataset/
+*.csv
+
+# Report and presentation (not part of this repo)
+*.pdf
+*.pptx
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+*.autosave
+*.slxc
+*.mat
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
